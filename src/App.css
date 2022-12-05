@@ -1,0 +1,41 @@
+.App{
+  min-height:100vh;
+}
+.bg--steelgray{
+  background:#22212E;
+}
+.c--trout{
+  color:#6F737F;
+}
+.common-padding{
+  padding-top:30px;
+  padding-bottom:30px;
+}
+.searchbar{
+  text-align:right;
+  border:1px solid green;
+}
+.search--box{
+  border:none;
+  outline:none;
+  color:white;
+  width:90%;
+}
+.add--btn{
+  border:none;
+}
+.add--btn:hover{
+  color:white;
+}
+.bg--emerald{
+  background:#41C26F;
+}
+.bg--charate{
+  background:#252432;
+}
+.bg--fuscous{
+  background:#555753;
+}
+.today--task{
+  cursor:pointer;
+}
